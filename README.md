@@ -44,6 +44,14 @@ $ npm run test:cov
 # install new project
 $ nest new [name project] -p npm
 
+# create new module
+$ nest generate module [name module]
+
+# create new routers
+$ nest generate controller [name router]
+
+# create new service
+$ nest generate service [name service]
 ```
 
 ## License
